@@ -19,6 +19,8 @@
 2. 比较两棵虚拟DOM树的差异
 3. 把差异应用到真正的DOM树上
 
+[预览](https://fredafei.github.io/simple-virtual-dom/)
+
 ### 参考
 
 [如何理解虚拟DOM?](https://www.zhihu.com/question/29504639?sort=created)
